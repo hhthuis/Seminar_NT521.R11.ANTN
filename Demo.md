@@ -1,4 +1,4 @@
-# Cau hoi (Integer Overflow → Shell)
+# Demo (Integer Overflow → Shell)
 
 Challenge: `pwnchall/pwnchall/main.cpp` (seminar NT521.R11.ANTN, Nhóm 08)
 Target binary: `pwnchall/x64/Release/pwnchall.exe` (PE32+ x64, MSVC /O2 /WPO).
